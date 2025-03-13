@@ -1,16 +1,13 @@
-## Hi there 👋
+🚀 Welcome to My GitHub!
+🎓 Final Year CSE Student | Data Science Enthusiast
+💻 Expert in: Python, C, JavaScript | Front-End Developer
+⚡ Extraordinary Skills:
 
-<!--
-**shahbajtahershezan/shahbajtahershezan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI & Machine Learning 🤖
+Full-Stack Web Development 🌐
+Database Management & Optimization 🗄️
+Problem Solving & Competitive Coding 🏆
+Cloud Computing & DevOps Basics ☁️
+UI/UX Design & Web Animations 🎨
+🔍 Passionate about building intelligent solutions and crafting seamless digital experiences.
+📌 Let’s connect and innovate! 🚀
