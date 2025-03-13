@@ -1,6 +1,6 @@
 🚀 Welcome to My GitHub!
 🎓 Final Year CSE Student | Data Science Enthusiast
-💻 Expert in: Python, C, JavaScript | Front-End Developer
+💻 Expert in: Python, C,SQL, JavaScript | Front-End Developer
 ⚡ Extraordinary Skills:
 
 AI & Machine Learning 🤖
